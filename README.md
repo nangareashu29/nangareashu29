@@ -5,7 +5,11 @@ production-ready applications with 2+ years of professional onsite as well as re
 
 I mostly work with DevOps Tools, Linux Environment and Cloud based technologies. 🚀
 
-![image](https://github.com/nangareashu29/nangareashu29/assets/118275259/1048e877-d3b6-4a93-987f-a9259863af7e)
+
+📫 How to reach me?
+
+Connect with me on https://www.linkedin.com/in/ashwini-savare-840955214/ 👨🏻‍💻
+Shoot Me an ashsaware29@gmail.com 💌
 
 
 
