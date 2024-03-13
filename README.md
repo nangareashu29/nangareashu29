@@ -1,18 +1,12 @@
-<h1 align="center">Hi 👋, I'm Ashwini Savare</h1>
-<h3 align="center">On your right 👉</h3>
-
-- 🔭 I’m currently working on **NCSi Technology**
-
-- 👨‍💻 All of my projects are available at [https://github.com/nangareashu29?tab=repositories](https://github.com/nangareashu29?tab=repositories)
-
-- 📝 I regularly write articles on [https://ashwinis.hashnode.dev/](https://ashwinis.hashnode.dev/)
-
-- 📫 How to reach me **ashsaware29@gmail.com**
+<h1 align="center">Hi 👋, I'm Ashwini Savare 🎯</h1>
+<p1> As System Administrator from India passionate about developing 
+production-ready applications with 2+ years of professional onsite as well as remote working experience. I mostly work with DevOps Tools, Linux Environment and Cloud based technologies. 🚀</p1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/ashwini-savare-840955214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ashwini-savare-840955214" height="30" width="40" /></a>
 <a href="https://hashnode.com/https://ashwinis.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://ashwinis.hashnode.dev/" height="30" width="40" /></a>
+<a href="mailto:ashsaware29@gmail.com"><img align="center" src="https://emojiisland.com/cdn/shop/products/Love_Letter_Emoji_large.png?v=1571606064. jpg" height="40" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
