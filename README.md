@@ -4,7 +4,7 @@ production-ready applications with 2+ years of professional onsite as well as re
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/www.linkedin.com/in/ashwini-savare-840955214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/www.linkedin.com/in/ashwini-savare-840955214" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ashwini-savare-840955214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/ashwini-savare-840955214" height="30" width="40" /></a>
 <a href="https://hashnode.com/https://ashwinis.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://ashwinis.hashnode.dev/" height="30" width="40" /></a>
 <a href="mailto:ashsaware29@gmail.com"><img align="center" src="https://emojiisland.com/cdn/shop/products/Love_Letter_Emoji_large.png?v=1571606064. jpg" height="40" width="30" /></a>
 </p>
